@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trần Thanh Hiếu</h1>
+<h2 align="center">Hi 👋, I'm Trần Thanh Hiếu</h2>
 <h3 align="center">A Vietnamese passionate frontend developer</h3>
 
 📫 Reach me throught this email **thanhhieu.uit31@gmail.com**
