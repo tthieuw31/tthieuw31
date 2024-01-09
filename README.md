@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tthieuw31&label=Profile%20views&color=0e75b6&style=flat" alt="tthieuw31" /> </p>
 
-- 📫 How to reach me **thanhhieu.uit31@gmail.com**
+📫 Reach me throught this email **thanhhieu.uit31@gmail.com**
 
 <p align="left">
 </p>
