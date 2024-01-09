@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trần Thanh Hiếu</h1>
 <h3 align="center">A Vietnamese passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tthieuw31&label=Profile%20views&color=0e75b6&style=flat" alt="tthieuw31" /> </p>
-
 📫 Reach me throught this email **thanhhieu.uit31@gmail.com**
 
 <p align="left">
