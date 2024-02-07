@@ -3,12 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tthieuw31&label=Profile%20views&color=0e75b6&style=flat" alt="tthieuw31" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tthieuw31" alt="tthieuw31" /></a> </p>
+
 - 📫 How to reach me **thanhhieu.uit31@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ONrjVNwsCqyp2oADO1KD0ngVkJYTGu90/view?usp=sharing](https://drive.google.com/file/d/1ONrjVNwsCqyp2oADO1KD0ngVkJYTGu90/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/thanhhieutran31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanhhieutran31" height="30" width="40" /></a>
+<a href="https://fb.com/thanhhieu.31.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanhhieu.31.05" height="30" width="40" /></a>
+<a href="https://instagram.com/t.hieu_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.hieu_31" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
