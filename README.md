@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tthieuw31&label=Profile%20views&color=0e75b6&style=flat" alt="tthieuw31" /> </p>
 
-- 📫 How to reach me **thanhhieu.uit31@gmail.com**
+- 📫 How to reach me **hieutt.3105@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ONrjVNwsCqyp2oADO1KD0ngVkJYTGu90/view?usp=sharing](https://drive.google.com/file/d/1ONrjVNwsCqyp2oADO1KD0ngVkJYTGu90/view?usp=sharing)
 
